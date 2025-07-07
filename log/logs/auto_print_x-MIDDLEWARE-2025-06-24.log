@@ -1,0 +1,5 @@
+[2025-06-24 3:42:47.824][INFO][Print-Routes]: Starting HTML->PDF Printing process...
+[2025-06-24 3:42:51.539][INFO][Print-Routes]: HTML PDF ficheiro_teste.pdf generated successfully!
+[2025-06-24 11:28:04.449][TOPIC][Print-Routes]: Downloading request for file :undefined
+[2025-06-24 11:28:26.248][TOPIC][Print-Routes]: Downloading request for file :undefined
+[2025-06-24 11:30:59.343][TOPIC][Print-Routes]: Downloading request for file :ficheiro_teste.pdf

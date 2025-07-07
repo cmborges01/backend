@@ -1,0 +1,7 @@
+{
+  "logPath":"./log/logs/",
+  "logLevel":"verbose",
+  "logEco":"yes",
+  "single":"no",
+  "filename":"auto_print_x-"
+}

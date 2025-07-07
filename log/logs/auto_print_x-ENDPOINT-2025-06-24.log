@@ -1,0 +1,14 @@
+[2025-06-24 10:43:34.846][INFO][PRINT_HTML_PDF]: A adicionar job para o objeto: ficheiro_teste
+[2025-06-24 10:58:07.446][INFO][PRINT_HTML_PDF]: A adicionar job para o objeto: ficheiro_teste
+[2025-06-24 10:58:07.454][INFO][PRINT_HTML_PDF]: Job adicionado à fila com ID: 1
+[2025-06-24 10:58:07.459][INFO][PRINT_HTML_PDF]: Total de jobs enviados: 1
+[2025-06-24 11:00:42.613][INFO][PRINT_HTML_PDF]: A adicionar job para o objeto: ficheiro_teste
+[2025-06-24 11:00:42.617][INFO][PRINT_HTML_PDF]: Job adicionado à fila com ID: 2
+[2025-06-24 11:00:42.618][INFO][PRINT_HTML_PDF]: Total de jobs enviados: 1
+[2025-06-24 11:10:16.089][INFO][PRINT_HTML_PDF]: A adicionar job para o objeto: ficheiro_teste
+[2025-06-24 11:10:16.096][INFO][PRINT_HTML_PDF]: Job adicionado à fila com ID: 3
+[2025-06-24 11:10:16.097][INFO][PRINT_HTML_PDF]: Total de jobs enviados: 1
+[2025-06-24 11:26:53.331][INFO][PRINT_HTML_PDF]: Adding job to queue for object: ficheiro_teste
+[2025-06-24 11:26:53.337][INFO][PRINT_HTML_PDF]: Job added to queue with ID: 4
+[2025-06-24 11:26:53.338][INFO][PRINT_HTML_PDF]: Total jobs queued: 1
+[2025-06-24 11:27:03.466][INFO][PRINT_HTML_PDF_STATUS]: Status for job 4: completed

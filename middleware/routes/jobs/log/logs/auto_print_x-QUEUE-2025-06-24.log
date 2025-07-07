@@ -1,0 +1,41 @@
+[2025-06-24 10:43:00.204][TOPIC][HTML_PDF_QUEUE]: HTML-PDF Queue module loaded and awaiting jobs...
+[2025-06-24 10:55:13.959][TOPIC][HTML_PDF_QUEUE]: HTML-PDF Queue module loaded and awaiting jobs...
+[2025-06-24 10:55:14.361][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:14.364][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:14.382][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:14.383][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:14.397][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:14.400][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:14.434][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:14.436][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:14.503][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:14.511][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:14.669][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:14.674][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:15.101][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:15.111][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:16.218][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:16.220][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:19.209][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:19.222][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:49.490][TOPIC][HTML_PDF_QUEUE]: HTML-PDF Queue module loaded and awaiting jobs...
+[2025-06-24 10:55:49.829][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:49.831][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:49.843][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:49.846][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:49.876][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:49.882][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:49.910][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:49.911][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:49.976][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:49.985][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:50.144][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:50.149][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:50.573][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:50.576][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:51.679][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:51.684][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:54.686][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:54.696][ERROR][HTML_PDF_QUEUE]: Erro na ligação ao Redis (Queue): Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:56:53.690][TOPIC][HTML_PDF_QUEUE]: HTML-PDF Queue module loaded and awaiting jobs...
+[2025-06-24 11:26:08.733][TOPIC][HTML_PDF_QUEUE]: HTML-PDF Queue module loaded and awaiting jobs...

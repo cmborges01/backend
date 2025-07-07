@@ -1,0 +1,12 @@
+{
+  "print_out": "./print_out/print/",
+  "img_out": "./print_out/img/",
+  "fonts": "./middleware/fonts/",
+  "images": "./middleware/images/",
+  "fonts_bold": "./middleware/fonts/bold/",
+  "fonts_italic": "./middleware/fonts/italic/",
+  "port": 8000,
+  "timeout": 259200000,
+  "redisHost": "127.0.0.1",
+  "redisPort": 6379
+}

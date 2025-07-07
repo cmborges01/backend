@@ -1,0 +1,56 @@
+[2025-06-24 10:30:23.409][TOPIC][htmlPdfWorker]: HTML-PDF Worker running and awaiting jobs...
+[2025-06-24 10:43:00.570][TOPIC][HTML_PDF_WORKER]: Worker HTML-PDF iniciado e pronto a processar jobs...
+[2025-06-24 10:43:00.580][INFO][HTML_PDF_WORKER]: Ligado ao Redis com sucesso.
+[2025-06-24 10:55:14.351][TOPIC][HTML_PDF_WORKER]: Worker HTML-PDF iniciado e pronto a processar jobs...
+[2025-06-24 10:55:14.362][ERROR][HTML_PDF_WORKER]: Erro de ligação ao Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:14.384][ERROR][HTML_PDF_WORKER]: Erro de ligação ao Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:14.398][ERROR][HTML_PDF_WORKER]: Erro de ligação ao Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:14.436][ERROR][HTML_PDF_WORKER]: Erro de ligação ao Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:14.507][ERROR][HTML_PDF_WORKER]: Erro de ligação ao Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:14.679][ERROR][HTML_PDF_WORKER]: Erro de ligação ao Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:15.105][ERROR][HTML_PDF_WORKER]: Erro de ligação ao Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:16.221][ERROR][HTML_PDF_WORKER]: Erro de ligação ao Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:19.220][ERROR][HTML_PDF_WORKER]: Erro de ligação ao Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:49.822][TOPIC][HTML_PDF_WORKER]: Worker HTML-PDF iniciado e pronto a processar jobs...
+[2025-06-24 10:55:49.830][ERROR][HTML_PDF_WORKER]: Erro de ligação ao Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:49.847][ERROR][HTML_PDF_WORKER]: Erro de ligação ao Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:49.879][ERROR][HTML_PDF_WORKER]: Erro de ligação ao Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:49.913][ERROR][HTML_PDF_WORKER]: Erro de ligação ao Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:49.980][ERROR][HTML_PDF_WORKER]: Erro de ligação ao Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:50.154][ERROR][HTML_PDF_WORKER]: Erro de ligação ao Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:50.574][ERROR][HTML_PDF_WORKER]: Erro de ligação ao Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:51.689][ERROR][HTML_PDF_WORKER]: Erro de ligação ao Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:55:54.691][ERROR][HTML_PDF_WORKER]: Erro de ligação ao Redis: Error: connect ECONNREFUSED 127.0.0.1:6379
+[2025-06-24 10:56:54.079][TOPIC][HTML_PDF_WORKER]: Worker HTML-PDF iniciado e pronto a processar jobs...
+[2025-06-24 10:56:54.092][INFO][HTML_PDF_WORKER]: Ligado ao Redis com sucesso.
+[2025-06-24 10:58:07.462][INFO][HTML_PDF_WORKER]: Job recebido: {"obj":{"sizeKey":1,"width":"210","height":"297","numCopies":1,"fileName":"ficheiro_teste","borderLine":"N","htmlContent":"<!DOCTYPE html><html lang=\"pt-BR\"><head><meta charset=\"UTF-8\"><title>Página Exemplo</title></head><body><h1>Welcome To AutoPrintX</h1></body></html>"},"templateConfig":{"sizeKey":"1","pageSizeWidth":"595","pageSizeHeight":"842","ticketsPerRow":"1","ticketsPerPage":"1","topBorder":"0","leftBorder":"0","ticketsHorizontalSpacing":"0","ticketsVerticalSpacing":"0"}}
+[2025-06-24 10:58:07.468][INFO][HTML_PDF_WORKER]: Diretório criado: print_out\print
+[2025-06-24 10:58:07.483][INFO][HTML_PDF_WORKER]: A iniciar browser headless...
+[2025-06-24 10:58:07.488][INFO][HTML_PDF_WORKER]: A processar job 1
+[2025-06-24 10:58:10.298][INFO][HTML_PDF_WORKER]: A definir conteúdo HTML...
+[2025-06-24 10:58:10.940][INFO][HTML_PDF_WORKER]: A gerar PDF em: print_out\print\ficheiro_teste.pdf
+[2025-06-24 10:58:11.527][INFO][HTML_PDF_WORKER]: Job 1 processado com sucesso!
+[2025-06-24 10:58:11.532][INFO][HTML_PDF_WORKER]: Job 1 concluído: {"fileName":"ficheiro_teste.pdf","sizePdf":16.99,"numCopies":1}
+[2025-06-24 11:00:42.618][INFO][HTML_PDF_WORKER]: Job recebido: {"obj":{"sizeKey":1,"width":"210","height":"297","numCopies":1,"fileName":"ficheiro_teste","borderLine":"N","htmlContent":"<!DOCTYPE html><html lang=\"pt-BR\"><head><meta charset=\"UTF-8\"><title>Página Exemplo</title></head><body><h1>Welcome To AutoPrintX</h1></body></html>"},"templateConfig":{"sizeKey":"1","pageSizeWidth":"595","pageSizeHeight":"842","ticketsPerRow":"1","ticketsPerPage":"1","topBorder":"0","leftBorder":"0","ticketsHorizontalSpacing":"0","ticketsVerticalSpacing":"0"}}
+[2025-06-24 11:00:42.622][INFO][HTML_PDF_WORKER]: A iniciar browser headless...
+[2025-06-24 11:00:42.623][INFO][HTML_PDF_WORKER]: A processar job 2
+[2025-06-24 11:00:43.932][INFO][HTML_PDF_WORKER]: A definir conteúdo HTML...
+[2025-06-24 11:00:44.547][INFO][HTML_PDF_WORKER]: A gerar PDF em: print_out\print\ficheiro_teste.pdf
+[2025-06-24 11:00:45.008][INFO][HTML_PDF_WORKER]: Job 2 processado com sucesso!
+[2025-06-24 11:00:45.013][INFO][HTML_PDF_WORKER]: Job 2 concluído: {"fileName":"ficheiro_teste.pdf","sizePdf":16.99,"numCopies":1}
+[2025-06-24 11:10:16.098][INFO][HTML_PDF_WORKER]: Job recebido: {"obj":{"sizeKey":1,"width":"210","height":"297","numCopies":1,"fileName":"ficheiro_teste","borderLine":"N","htmlContent":"<!DOCTYPE html><html lang=\"pt-BR\"><head><meta charset=\"UTF-8\"><title>Página Exemplo</title></head><body><h1>Welcome To AutoPrintX</h1></body></html>"},"templateConfig":{"sizeKey":"1","pageSizeWidth":"595","pageSizeHeight":"842","ticketsPerRow":"1","ticketsPerPage":"1","topBorder":"0","leftBorder":"0","ticketsHorizontalSpacing":"0","ticketsVerticalSpacing":"0"}}
+[2025-06-24 11:10:16.106][INFO][HTML_PDF_WORKER]: A iniciar browser headless...
+[2025-06-24 11:10:16.109][INFO][HTML_PDF_WORKER]: A processar job 3
+[2025-06-24 11:10:18.697][INFO][HTML_PDF_WORKER]: A definir conteúdo HTML...
+[2025-06-24 11:10:19.303][INFO][HTML_PDF_WORKER]: A gerar PDF em: print_out\print\ficheiro_teste.pdf
+[2025-06-24 11:10:20.250][INFO][HTML_PDF_WORKER]: Job 3 processado com sucesso!
+[2025-06-24 11:10:20.253][INFO][HTML_PDF_WORKER]: Job 3 concluído: {"fileName":"ficheiro_teste.pdf","sizePdf":16.99,"numCopies":1}
+[2025-06-24 11:26:09.097][TOPIC][HTML_PDF_WORKER]: HTML-PDF Worker started and ready to process jobs...
+[2025-06-24 11:26:09.120][INFO][HTML_PDF_WORKER]: Connected to Redis successfully.
+[2025-06-24 11:26:53.342][INFO][HTML_PDF_WORKER]: Received job: {"obj":{"sizeKey":1,"width":"210","height":"297","numCopies":1,"fileName":"ficheiro_teste","borderLine":"N","htmlContent":"<!DOCTYPE html><html lang=\"pt-BR\"><head><meta charset=\"UTF-8\"><title>Página Exemplo</title></head><body><h1>Welcome To AutoPrintX</h1></body></html>"},"templateConfig":{"sizeKey":"1","pageSizeWidth":"595","pageSizeHeight":"842","ticketsPerRow":"1","ticketsPerPage":"1","topBorder":"0","leftBorder":"0","ticketsHorizontalSpacing":"0","ticketsVerticalSpacing":"0"}}
+[2025-06-24 11:26:53.354][INFO][HTML_PDF_WORKER]: Launching headless browser...
+[2025-06-24 11:26:53.362][INFO][HTML_PDF_WORKER]: Processing job 4
+[2025-06-24 11:26:54.838][INFO][HTML_PDF_WORKER]: Setting HTML content...
+[2025-06-24 11:26:55.894][INFO][HTML_PDF_WORKER]: Generating PDF at: print_out\print\ficheiro_teste.pdf
+[2025-06-24 11:26:56.445][INFO][HTML_PDF_WORKER]: Job 4 processed successfully!
+[2025-06-24 11:26:56.450][INFO][HTML_PDF_WORKER]: Job 4 completed: {"fileName":"ficheiro_teste.pdf","sizePdf":16.99,"numCopies":1}

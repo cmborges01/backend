@@ -1,0 +1,18 @@
+{
+  "black": "[30m%s",
+  "cyan": "[36m%s",
+  "purple": "[35m%s",
+  "green": "[32m%s",
+  "red": "[31m%s",
+  "yellow": "[33m%s",
+  "blue": "[34m%s",
+  "bright": {
+    "black": "[90m%s",
+    "cyan": "[96m%s",
+    "purple": "[95m%s",
+    "green": "[92m%s",
+    "red": "[91m%s",
+    "yellow": "[93m%s",
+    "blue": "[94m%s"
+  }
+}
