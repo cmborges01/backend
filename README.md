@@ -60,4 +60,23 @@ Testing endpoints:
 Use tools like Postman, Insomnia, or the AutoPrintX frontend to test endpoints.
 
 
+/
+├── auto_print_x.js                # Main server entry point
+├── config.json                    # System configuration (paths, Redis, ports)
+├── middleware/
+│   └── routes/
+│       ├── printRoutes.js         # Main API endpoint definitions
+│       └── jobs/
+│           ├── htmlPdfQueue.js    # Bull queue for HTML-PDF jobs
+│           └── htmlPdfWorker.js   # Bull worker for processing HTML-PDF jobs
+├── log/                           # Log files
+├── print_out/                     # Folder for generated PDFs
+└── ...                            # Additional helper modules
 
+
+ Notes
+All code was developed and reviewed by the project author.
+
+Best practices in modularization, logging, and error handling have been followed.
+
+API documentation is available in the main project report or can be requested via GitHub Issues.
