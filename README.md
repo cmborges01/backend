@@ -73,6 +73,7 @@ Use tools like Postman, Insomnia, or the AutoPrintX frontend to test endpoints.
 ├── print_out/                     # Folder for generated PDFs
 └── ...                            # Additional helper modules
 
+![image](https://github.com/user-attachments/assets/c341caf7-c8f4-468d-9dda-9a815708fb02)
 
  Notes
 All code was developed and reviewed by the project author.
